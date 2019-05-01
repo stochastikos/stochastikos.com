@@ -34,3 +34,23 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
+# Extensiones de archivo estáticos
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Extensiones de archivos sin estructura identificada
+*.xlsx
+*.docx
+*.gnumeric
+*.csv
+*.txt
+
+# Exteniones de archivos comprimidos
+*.zip
+*.gz
+*.tar.gz
+*.rar
